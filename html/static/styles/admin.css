@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    padding: 20px;
+}
+
+.login-panel, .admin-panel {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+#login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#admin-password {
+    margin-top: 10px;
+    padding: 10px;
+    width: 80%;
+    font-size: 16px;
+}
+
+#login-form button {
+    margin-top: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#login-form button:hover {
+    background-color: #0056b3;
+}
+
+.ip-noter, .ban
