@@ -1,6 +1,6 @@
 Project Overview
 
-This project is an upgraded version of the original code from https://github.com/m1k1o/chat. The initial implementation contained several bugs and performance issues, which have now been addressed through a complete rewrite.
+This project is an upgraded version of the original code from https://github.com/m1k1o/chat. The initial implementation had performance issues, which have now been addressed through a complete rewrite.
 Key Enhancements:
 
     Code Refactor: The entire codebase has been rewritten to improve stability, performance, and maintainability.
@@ -9,7 +9,7 @@ Key Enhancements:
 
 Control Panel Access:
 
-To access the control panel, use the following credentials:
+To access the control panel, use the following credentials:(http://xxx/login.html
 
     Password: 192.168.1.2
 
