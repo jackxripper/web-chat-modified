@@ -9,7 +9,7 @@ Key Enhancements:
 
 Control Panel Access:
 
-To access the control panel, use the following credentials:(http://xxx/login.html
+To access the control panel, use the following credentials:(http://xxx/login.html)
 
     Password: 192.168.1.2
 
